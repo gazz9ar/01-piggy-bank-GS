@@ -1,0 +1,32 @@
+/* Colors => https://mycolor.space/?hex=%23E74D55&sub=1 */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e74d55;
+  color: #fff;
+}
+
+.card {
+  background: #ffffff25;
+  border-color: #ffffff30;
+}
+
+.btn {
+  color: white;
+}
+
+.btn-success {
+  background-color: #b156b3;
+  border-color: #b156b3;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.nav-link.active {
+  color: #e74d55 !important;
+}
